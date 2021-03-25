@@ -9,6 +9,7 @@ namespace ConsoleApp3
             Console.WriteLine("Hello World!");
             Console.WriteLine("novo");
             Console.WriteLine("novo");
+            Console.WriteLine("provjera suradnje");
         }
     }
 }
